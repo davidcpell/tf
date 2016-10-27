@@ -1,4 +1,4 @@
 module "ubuntu_instance" {
   source = "./modules"
-  region = "us-east-1"
+  /* region = "us-east-1" */
 }
